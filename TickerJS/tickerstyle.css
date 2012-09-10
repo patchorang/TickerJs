@@ -1,0 +1,19 @@
+body{
+	font: 24px arial, sans-serif;
+}
+
+.ticker{
+	float: left;
+	line-height: 1em;
+	position: relative;
+	top: 0em;
+}
+
+.ticker-item{
+	margin-top: 1em;
+}
+
+#start{
+	float: left;
+	line-height: 1em;
+}
